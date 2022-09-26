@@ -8,6 +8,3 @@
 [![](https://img.shields.io/badge/-Jenkins-000?style=flat&logo=Jenkins)](https://www.jenkins.io/)
 [![](https://img.shields.io/badge/-Git-000?style=flat&logo=Git)](https://git-scm.com/)
 [![](https://img.shields.io/badge/-Subversion-000?style=flat&logo=Subversion)](https://subversion.apache.org/)
-
-### Others
-![](https://komarev.com/ghpvc/?username=Ken-tk&color=green)
